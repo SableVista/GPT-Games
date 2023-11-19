@@ -1,7 +1,7 @@
 # GPT Games
 List if cool GPT Games with Links from [SableVista](https://sablevista.com):
 
-[Blackjack](https://chat.openai.com/g/g-2wF7xSRmS-blackjack)
+[Blackjack](https://chat.openai.com/g/g-2wF7xSRmS-blackjack)\n
 Play games of Blackjack with me ♦️A♠️K
 
 [Higher Lower Game](https://chat.openai.com/g/g-c0u14Ylg3-higher-lower-game)
